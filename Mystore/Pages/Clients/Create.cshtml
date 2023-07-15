@@ -1,0 +1,67 @@
+﻿@page
+@model Mystore.Pages.Clients.CreateModel
+@{
+}
+<style>
+	.font{
+		font-family: Georgia, 'Times New Roman', Times, serif;
+	}
+</style>
+<div class="font">
+<br>
+<h2>New Client</h2>
+@if (Model.errorMessage.Length > 0)
+{
+	<div class='alert alert-warning alert-dismissible fade show' role='alert'>
+		<strong>@Model.errorMessage</strong>
+		<button type='button' class='btn-close' data-bs-dismiss='alert' aria-label='close'></button>
+	</div>
+}
+
+<form method="POST">
+	<div class="row mb-3">
+		<label class="col-sm-3 col-form-label">Name</label>
+		<div class="col-sm-6">
+			<input type="text" class="form-control" name="Name" value="@Model.ClientInfo.name">
+		</div>
+	</div>
+	<div class="row mb-3">
+		<label class="col-sm-3 col-form-label">Email</label>
+		<div class="col-sm-6">
+			<input type="text" class="form-control" name="Email" value="@Model.ClientInfo.email">
+		</div>
+	</div>
+	<div class="row mb-3">
+		<label class="col-sm-3 col-form-label">Phone</label>
+		<div class="col-sm-6">
+			<input type="text" class="form-control" name="Phone" value="@Model.ClientInfo.phone">
+		</div>
+	</div>
+	<div class="row mb-3">
+		<label class="col-sm-3 col-form-label">Address</label>
+		<div class="col-sm-6"> 
+			<input type="text" class="form-control" name="Address" value="@Model.ClientInfo.address">
+		</div>
+	</div>
+	@if (Model.successMessage.Length > 0)
+	{
+	<div class="row mb-3">
+       <div class="col-sm-9">
+	   <div class='alert alert-success alert-dismissible fade show' role='alert'>
+		<strong>@Model.successMessage</strong>
+		<button type='button' class='btn-close' data-bs-dismiss='alert' aria-label='close'></button>
+		</div>
+		</div>
+	</div>
+	}
+
+	<div class="row mb-3">
+		<div class="offset-sm-3 col-sm-3 d-grid">
+			<button type="submit" class="btn btn-primary">submit</button>
+		</div>
+		<div class="col-sm-3 d-grid">
+			<a class="btn btn-outline-primary" href="/" role="button">Cancel</a>
+		</div>
+	</div>
+</form>
+</div>
