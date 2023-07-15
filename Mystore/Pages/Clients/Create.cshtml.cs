@@ -18,7 +18,6 @@ namespace Mystore.Pages.Clients
             ClientInfo.email = Request.Form["email"];
             ClientInfo.phone = Request.Form["phone"];
             ClientInfo.address = Request.Form["address"];  
-            ClientInfo = new ClientInfo();
 
             if(ClientInfo.name.Length==0|| ClientInfo.email.Length == 0 || ClientInfo.phone.Length == 0 || ClientInfo.address.Length == 0)
             {
