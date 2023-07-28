@@ -9,53 +9,53 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Mystore
 build_property.RootNamespace = Mystore
-build_property.ProjectDir = C:\Users\arasu\source\repos\Mystore\Mystore\
+build_property.ProjectDir = c:\Users\arasu\Documents\GitHub\Client\Mystore\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\arasu\source\repos\Mystore\Mystore
+build_property.MSBuildProjectDirectory = c:\Users\arasu\Documents\GitHub\Client\Mystore
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/arasu/source/repos/Mystore/Mystore/Pages/Clients/Create.cshtml]
+[c:/Users/arasu/Documents/GitHub/Client/Mystore/Pages/Clients/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2xpZW50c1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/arasu/source/repos/Mystore/Mystore/Pages/Clients/Delete.cshtml]
+[c:/Users/arasu/Documents/GitHub/Client/Mystore/Pages/Clients/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2xpZW50c1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/arasu/source/repos/Mystore/Mystore/Pages/Clients/Edit.cshtml]
+[c:/Users/arasu/Documents/GitHub/Client/Mystore/Pages/Clients/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2xpZW50c1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/arasu/source/repos/Mystore/Mystore/Pages/Clients/Index.cshtml]
+[c:/Users/arasu/Documents/GitHub/Client/Mystore/Pages/Clients/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2xpZW50c1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/arasu/source/repos/Mystore/Mystore/Pages/Error.cshtml]
+[c:/Users/arasu/Documents/GitHub/Client/Mystore/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/arasu/source/repos/Mystore/Mystore/Pages/Index.cshtml]
+[c:/Users/arasu/Documents/GitHub/Client/Mystore/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/arasu/source/repos/Mystore/Mystore/Pages/Privacy.cshtml]
+[c:/Users/arasu/Documents/GitHub/Client/Mystore/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/arasu/source/repos/Mystore/Mystore/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[c:/Users/arasu/Documents/GitHub/Client/Mystore/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/arasu/source/repos/Mystore/Mystore/Pages/_ViewImports.cshtml]
+[c:/Users/arasu/Documents/GitHub/Client/Mystore/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/arasu/source/repos/Mystore/Mystore/Pages/_ViewStart.cshtml]
+[c:/Users/arasu/Documents/GitHub/Client/Mystore/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/arasu/source/repos/Mystore/Mystore/Pages/Shared/_Layout.cshtml]
+[c:/Users/arasu/Documents/GitHub/Client/Mystore/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-tor4wf3ey9
