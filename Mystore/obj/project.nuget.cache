@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "amCqi88417L+PVnjm2aoPwr8SWKx1ruFB3LzWO/SqLzOXATPEo5YiH4gFO8Zr/7CuKcTOL3qk+JwelZJQ/WVGQ==",
+  "dgSpecHash": "iHLgYlqdY2lNPStNNBDej9AkdAihT8vEmf4txWngguqHVmHoxftAUg6LwAbjYV2my5wAz/pDDFD1XOCaGOsNhw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\arasu\\source\\repos\\Mystore\\Mystore\\Mystore.csproj",
+  "projectFilePath": "C:\\Users\\arasu\\Documents\\GitHub\\Client\\Mystore\\Mystore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\arasu\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\arasu\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
@@ -13,10 +13,10 @@
     "C:\\Users\\arasu\\.nuget\\packages\\system.data.sqlclient\\4.8.5\\system.data.sqlclient.4.8.5.nupkg.sha512",
     "C:\\Users\\arasu\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
     "C:\\Users\\arasu\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512",
-    "C:\\Users\\arasu\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.19\\microsoft.windowsdesktop.app.ref.6.0.19.nupkg.sha512",
-    "C:\\Users\\arasu\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.19\\microsoft.netcore.app.ref.6.0.19.nupkg.sha512",
-    "C:\\Users\\arasu\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.19\\microsoft.aspnetcore.app.ref.6.0.19.nupkg.sha512",
-    "C:\\Users\\arasu\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.19\\microsoft.netcore.app.host.win-x64.6.0.19.nupkg.sha512"
+    "C:\\Users\\arasu\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.20\\microsoft.netcore.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\arasu\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.20\\microsoft.windowsdesktop.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\arasu\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.20\\microsoft.aspnetcore.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\arasu\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.20\\microsoft.netcore.app.host.win-x64.6.0.20.nupkg.sha512"
   ],
   "logs": []
 }
